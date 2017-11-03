@@ -4,7 +4,7 @@
 
 int main (){
 
-printf("The world is a vampire.\n"); /* Llamada a la funcion */
+    printf("The world is a vampire.\n"); /* Llamada a la funcion */
 
-return EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }
