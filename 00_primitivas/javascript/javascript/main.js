@@ -1,3 +1,3 @@
 function main() {
-        alert("The world is a vampire")
+        alert("The World is a Vampire")
 }
