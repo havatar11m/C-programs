@@ -16,10 +16,10 @@ int main (){
     area = lado*lado;
     perimetro = 4*lado;
 
-        /*Salida de datos*/
-        printf( "Area: %i\n"
-                "Perimetro: %i\n",
-                area, perimetro );
+    /*Salida de datos*/
+    printf( "Area: %i\n"
+            "Perimetro: %i\n",
+            area, perimetro );
 
     return EXIT_SUCCESS;
 }
